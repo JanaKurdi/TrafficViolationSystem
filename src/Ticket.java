@@ -1,4 +1,3 @@
-//Jana Kurdi/1906167/GAR/Jana/Assigment#2
 import java.util.*;//for Date
 import java.text.*;//to claculate Driver age
 public class Ticket {

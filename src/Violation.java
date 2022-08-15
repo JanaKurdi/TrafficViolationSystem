@@ -1,4 +1,3 @@
-//Jana Kurdi/1906167/GAR/Jana/Assigment#2
 public class Violation {
     /** Define the violation class */
   private int violationCode;//the code of the violation

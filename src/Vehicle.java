@@ -1,4 +1,3 @@
-//Jana Kurdi/1906167/GAR/Jana/Assigment#2
 public class Vehicle {
     /** Define the vehicle class */
   private String VehiclePlateNo;//the plate number of the vehicle
