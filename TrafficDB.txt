@@ -1,0 +1,164 @@
+--------------- Welcome to Traffic  Database ---------------
+
+
+
+	Vehicle No.: ANG-3456	Type: Car	Brand: Toyota	Model: Corolla	Color: White	Mfg. Year: 2017
+------------------------------------------------------
+
+
+	Vehicle No.: GKW-9509	Type: SUV	Brand: Kia	Model: Sportage	Color: Blue	Mfg. Year: 2013
+------------------------------------------------------
+
+
+	Vehicle No.: MSS-9121	Type: Car	Brand: Toyota	Model: Corolla	Color: White	Mfg. Year: 2017
+------------------------------------------------------
+
+
+	Vehicle No.: PLO-1059	Type: Truck	Brand: Ford	Model: F160	Color: Black	Mfg. Year: 2008
+------------------------------------------------------
+
+
+	Vehicle No.: ZBV-1743	Type: Pickup	Brand: Nissan	Model: Navara	Color: Green	Mfg. Year: 2012
+------------------------------------------------------
+
+
+	Vehicle No.: IQS-7792	Type: Car	Brand: Honda	Model: Civic	Color: Grey	Mfg. Year: 2014
+------------------------------------------------------
+
+
+	Vehicle No.: SGH-6258	Type: SUV	Brand: Honda	Model: CRV	Color: White	Mfg. Year: 2015
+------------------------------------------------------
+
+
+	Vehicle No.: HGD-1253	Type: Car	Brand: Mercedes	Model: AMG	Color: Red	Mfg. Year: 2017
+------------------------------------------------------
+
+
+	Vehicle No.: FKD-1421	Type: Pickup	Brand: Toyota	Model: Hilux	Color: Grey	Mfg. Year: 2018
+------------------------------------------------------
+
+
+	Vehicle No.: OEN-4432	Type: Car	Brand: Lexus	Model: LX570	Color: White	Mfg. Year: 2011
+------------------------------------------------------
+
+
+	Vehicle No.: OFM-8546	Type: Truck	Brand: MAN	Model: TGS	Color: Black	Mfg. Year: 2008
+------------------------------------------------------
+
+
+	Vehicle No.: XBN-3662	Type: SUV	Brand: Toyota	Model: Fortuner	Color: Blue	Mfg. Year: 2009
+------------------------------------------------------
+
+
+	Vehicle No.: ZMJ-6244	Type: Bus	Brand: Mazda	Model: T3500	Color: Grey	Mfg. Year: 2017
+------------------------------------------------------
+
+
+	Vehicle No.: PFK-9886	Type: Car	Brand: Honda	Model: Accord	Color: White	Mfg. Year: 2019
+------------------------------------------------------
+
+
+	Vehicle No.: QYN-3002	Type: Truck	Brand: Volvo	Model: FMR	Color: Yellow	Mfg. Year: 2017
+------------------------------------------------------
+
+
+	Vehicle No.: DDV-2087	Type: Car	Brand: KIA	Model: Optima	Color: Green	Mfg. Year: 2013
+------------------------------------------------------
+
+
+	Vehicle No.: IUN-7806	Type: Pickup	Brand: Suzuki	Model: Carry	Color: Brown	Mfg. Year: 2011
+------------------------------------------------------
+
+
+	Vehicle No.: PSO-4502	Type: Car	Brand: Mercedes	Model: S500	Color: Black	Mfg. Year: 2013
+------------------------------------------------------
+
+
+	Vehicle No.: ORW-2024	Type: SUV	Brand: Lexus	Model: RX470	Color: Grey	Mfg. Year: 2017
+------------------------------------------------------
+
+
+	Vehicle No.: QPL-1002	Type: Bus	Brand: Mercedes	Model: DLX	Color: Yellow	Mfg. Year: 2018
+------------------------------------------------------
+
+
+	Violation Code: 1000	Violation Description: Red Light
+------------------------------------------------------
+
+
+	Violation Code: 1001	Violation Description: Wrong Way
+------------------------------------------------------
+
+
+	Violation Code: 1002	Violation Description: Wrong Parking
+------------------------------------------------------
+
+
+	Violation Code: 1003	Violation Description: Over Speeding
+------------------------------------------------------
+
+
+	Violation Code: 1004	Violation Description: Mobile Use
+------------------------------------------------------
+
+
+	Violation Code: 1005	Violation Description: Wrong Lane
+------------------------------------------------------
+
+
+	Violation Code: 1006	Violation Description: Throwing Garbage
+------------------------------------------------------
+
+
+	Violation Code: 1007	Violation Description: Horn Misuse
+------------------------------------------------------
+
+
+	Violation Code: 1008	Violation Description: No Seatbelt
+------------------------------------------------------
+
+
+	Violation Code: 1009	Violation Description: Wrong Turn
+------------------------------------------------------
+
+
+	Driver ID: 2021236524	Name: Ahmed Shamrani
+------------------------------------------------------
+
+
+	Driver ID: 2342114502	Name: Jamal Albara
+------------------------------------------------------
+
+
+	Driver ID: 2225198408	Name: Abdul Rehman
+------------------------------------------------------
+
+
+	Driver ID: 2474747448	Name: Qasim Nasr
+------------------------------------------------------
+
+
+	Driver ID: 2908967685	Name: Sahl Zahrani
+------------------------------------------------------
+
+
+	Driver ID: 2345347676	Name: Abdul Rehman
+------------------------------------------------------
+
+
+	Driver ID: 2546834724	Name: Malick Ghazi
+------------------------------------------------------
+
+
+	Driver ID: 2912367457	Name: Bandar Omar
+------------------------------------------------------
+
+
+	Driver ID: 2134367222	Name: Khaled Bara
+------------------------------------------------------
+
+
+	Driver ID: 2845898568	Name: Hamid Farouk
+------------------------------------------------------
+
+

@@ -1,0 +1,42 @@
+20 10 10
+AddVehicle ANG-3456 Car Toyota Corolla White 2017
+AddVehicle GKW-9509 SUV Kia Sportage Blue 2013
+AddVehicle MSS-9121 Car Toyota Corolla White 2017
+AddVehicle PLO-1059 Truck Ford F160 Black 2008
+AddVehicle ZBV-1743 Pickup Nissan Navara Green 2012
+AddVehicle IQS-7792 Car Honda Civic Grey 2014
+AddVehicle SGH-6258 SUV Honda CRV White 2015
+AddVehicle HGD-1253 Car Mercedes AMG Red 2017
+AddVehicle FKD-1421 Pickup Toyota Hilux Grey 2018
+AddVehicle OEN-4432 Car Lexus LX570 White 2011
+AddVehicle OFM-8546 Truck MAN TGS Black 2008
+AddVehicle XBN-3662 SUV Toyota Fortuner Blue 2009
+AddVehicle ZMJ-6244 Bus Mazda T3500 Grey 2017
+AddVehicle PFK-9886 Car Honda Accord White 2019
+AddVehicle QYN-3002 Truck Volvo FMR Yellow 2017
+AddVehicle DDV-2087 Car KIA Optima Green 2013
+AddVehicle IUN-7806 Pickup Suzuki Carry Brown 2011
+AddVehicle PSO-4502 Car Mercedes S500 Black 2013
+AddVehicle ORW-2024 SUV Lexus RX470 Grey 2017
+AddVehicle QPL-1002 Bus Mercedes DLX Yellow 2018
+AddDriver 2021236524 Ahmed Shamrani 1989 8 11
+AddDriver 2342114502 Jamal Albara 1992 2 24
+AddDriver 2225198408 Abdul Rehman 2001 6 8
+AddDriver 2474747448 Qasim Nasr 1971 9 18
+AddDriver 2908967685 Sahl Zahrani 1985 10 30
+AddDriver 2345347676 Abdul Rehman 2002 5 22
+AddDriver 2546834724 Malick Ghazi 2001 6 7
+AddDriver 2912367457 Bandar Omar 1963 3 27
+AddDriver 2134367222 Khaled Bara 1995 4 19
+AddDriver 2845898568 Hamid Farouk 1996 2 13
+AddViolation 1000 Red_Light 3000
+AddViolation 1001 Wrong_Way 2000
+AddViolation 1002 Wrong_Parking 100
+AddViolation 1003 Over_Speeding 500
+AddViolation 1004 Mobile_Use 300
+AddViolation 1005 Wrong_Lane 600
+AddViolation 1006 Throwing_Garbage 300
+AddViolation 1007 Horn_Misuse 200
+AddViolation 1008 No_Seatbelt 300
+AddViolation 1009 Wrong_Turn 500
+Quit

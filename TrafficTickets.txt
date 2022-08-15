@@ -1,0 +1,517 @@
+--------------- Welcome to Traffic Ticket System ---------------
+
+
+Ticket No. 1660584856830
+
+Violation Details
+	Violation Code: 1000
+	Violation Description: Red Light
+	Violation Penalty: 3000.0
+
+Vehicle Details
+	Number Plate: OEN-4432
+	Type: Car
+	Brand: Lexus
+	Model: LX570
+	Color: White
+	Built Year: 2011
+
+Violator Details
+	National ID: 2342114502
+	Full Name: Jamal Albara
+
+Ticket Details
+	Date: 2020-15-3
+	Location: Jeddah
+
+Total Penalty: 3150.0
+───────────────────────────────────────────────────────
+Ticket No. 1660584856836
+
+Violation Details
+	Violation Code: 1002
+	Violation Description: Wrong Parking
+	Violation Penalty: 100.0
+
+Vehicle Details
+	Number Plate: GKW-9509
+	Type: SUV
+	Brand: Kia
+	Model: Sportage
+	Color: Blue
+	Built Year: 2013
+
+Violator Details
+	National ID: 2225198408
+	Full Name: Abdul Rehman
+
+Ticket Details
+	Date: 2020-21-4
+	Location: Makkah
+
+Total Penalty: 1200.0
+───────────────────────────────────────────────────────
+Ticket No. 1660584856837
+
+Violation Details
+	Violation Code: 1001
+	Violation Description: Wrong Way
+	Violation Penalty: 2000.0
+
+Vehicle Details
+	Number Plate: PFK-9886
+	Type: Car
+	Brand: Honda
+	Model: Accord
+	Color: White
+	Built Year: 2019
+
+Violator Details
+	National ID: 2225198408
+	Full Name: Abdul Rehman
+
+Ticket Details
+	Date: 2020-9-6
+	Location: Riyadh
+
+Total Penalty: 3000.0
+───────────────────────────────────────────────────────
+Ticket No. 1660584856838
+
+Violation Details
+	Violation Code: 1003
+	Violation Description: Over Speeding
+	Violation Penalty: 500.0
+
+Vehicle Details
+	Number Plate: XBN-3662
+	Type: SUV
+	Brand: Toyota
+	Model: Fortuner
+	Color: Blue
+	Built Year: 2009
+
+Violator Details
+	National ID: 2546834724
+	Full Name: Malick Ghazi
+
+Ticket Details
+	Date: 2020-11-1
+	Location: Riyadh
+
+Total Penalty: 1750.0
+───────────────────────────────────────────────────────
+Ticket No. 1660584856838
+
+Violation Details
+	Violation Code: 1006
+	Violation Description: Throwing Garbage
+	Violation Penalty: 300.0
+
+Vehicle Details
+	Number Plate: GKW-9509
+	Type: SUV
+	Brand: Kia
+	Model: Sportage
+	Color: Blue
+	Built Year: 2013
+
+Violator Details
+	National ID: 2845898568
+	Full Name: Hamid Farouk
+
+Ticket Details
+	Date: 2020-21-2
+	Location: Jeddah
+
+Total Penalty: 400.0
+───────────────────────────────────────────────────────
+Ticket No. 1660584856839
+
+Violation Details
+	Violation Code: 1005
+	Violation Description: Wrong Lane
+	Violation Penalty: 600.0
+
+Vehicle Details
+	Number Plate: IUN-7806
+	Type: Pickup
+	Brand: Suzuki
+	Model: Carry
+	Color: Brown
+	Built Year: 2011
+
+Violator Details
+	National ID: 2225198408
+	Full Name: Abdul Rehman
+
+Ticket Details
+	Date: 2020-26-9
+	Location: Riyadh
+
+Total Penalty: 1750.0
+───────────────────────────────────────────────────────
+Ticket No. 1660584856840
+
+Violation Details
+	Violation Code: 1009
+	Violation Description: Wrong Turn
+	Violation Penalty: 500.0
+
+Vehicle Details
+	Number Plate: ZMJ-6244
+	Type: Bus
+	Brand: Mazda
+	Model: T3500
+	Color: Grey
+	Built Year: 2017
+
+Violator Details
+	National ID: 2345347676
+	Full Name: Abdul Rehman
+
+Ticket Details
+	Date: 2020-2-5
+	Location: Makkah
+
+Total Penalty: 1600.0
+───────────────────────────────────────────────────────
+Ticket No. 1660584856841
+
+Violation Details
+	Violation Code: 1006
+	Violation Description: Throwing Garbage
+	Violation Penalty: 300.0
+
+Vehicle Details
+	Number Plate: PFK-9886
+	Type: Car
+	Brand: Honda
+	Model: Accord
+	Color: White
+	Built Year: 2019
+
+Violator Details
+	National ID: 2546834724
+	Full Name: Malick Ghazi
+
+Ticket Details
+	Date: 2020-9-1
+	Location: Taif
+
+Total Penalty: 1550.0
+───────────────────────────────────────────────────────
+Ticket No. 1660584856842
+
+Violation Details
+	Violation Code: 1004
+	Violation Description: Mobile Use
+	Violation Penalty: 300.0
+
+Vehicle Details
+	Number Plate: MSS-9121
+	Type: Car
+	Brand: Toyota
+	Model: Corolla
+	Color: White
+	Built Year: 2017
+
+Violator Details
+	National ID: 2225198408
+	Full Name: Abdul Rehman
+
+Ticket Details
+	Date: 2020-21-2
+	Location: Riyadh
+
+Total Penalty: 1300.0
+───────────────────────────────────────────────────────
+Ticket No. 1660584856843
+
+Violation Details
+	Violation Code: 1003
+	Violation Description: Over Speeding
+	Violation Penalty: 500.0
+
+Vehicle Details
+	Number Plate: ORW-2024
+	Type: SUV
+	Brand: Lexus
+	Model: RX470
+	Color: Grey
+	Built Year: 2017
+
+Violator Details
+	National ID: 2342114502
+	Full Name: Jamal Albara
+
+Ticket Details
+	Date: 2020-28-5
+	Location: Jeddah
+
+Total Penalty: 600.0
+───────────────────────────────────────────────────────
+Ticket No. 1660584856844
+
+Violation Details
+	Violation Code: 1005
+	Violation Description: Wrong Lane
+	Violation Penalty: 600.0
+
+Vehicle Details
+	Number Plate: PFK-9886
+	Type: Car
+	Brand: Honda
+	Model: Accord
+	Color: White
+	Built Year: 2019
+
+Violator Details
+	National ID: 2225198408
+	Full Name: Abdul Rehman
+
+Ticket Details
+	Date: 2020-10-3
+	Location: Riyadh
+
+Total Penalty: 1850.0
+───────────────────────────────────────────────────────
+Ticket No. 1660584856845
+
+Violation Details
+	Violation Code: 1007
+	Violation Description: Horn Misuse
+	Violation Penalty: 200.0
+
+Vehicle Details
+	Number Plate: QYN-3002
+	Type: Truck
+	Brand: Volvo
+	Model: FMR
+	Color: Yellow
+	Built Year: 2017
+
+Violator Details
+	National ID: 2342114502
+	Full Name: Jamal Albara
+
+Ticket Details
+	Date: 2020-15-7
+	Location: Makkah
+
+Total Penalty: 300.0
+───────────────────────────────────────────────────────
+Ticket No. 1660584856846
+
+Violation Details
+	Violation Code: 1008
+	Violation Description: No Seatbelt
+	Violation Penalty: 300.0
+
+Vehicle Details
+	Number Plate: ANG-3456
+	Type: Car
+	Brand: Toyota
+	Model: Corolla
+	Color: White
+	Built Year: 2017
+
+Violator Details
+	National ID: 2912367457
+	Full Name: Bandar Omar
+
+Ticket Details
+	Date: 2020-17-6
+	Location: Riyadh
+
+Total Penalty: 450.0
+───────────────────────────────────────────────────────
+Ticket No. 1660584856847
+
+Violation Details
+	Violation Code: 1009
+	Violation Description: Wrong Turn
+	Violation Penalty: 500.0
+
+Vehicle Details
+	Number Plate: DDV-2087
+	Type: Car
+	Brand: KIA
+	Model: Optima
+	Color: Green
+	Built Year: 2013
+
+Violator Details
+	National ID: 2845898568
+	Full Name: Hamid Farouk
+
+Ticket Details
+	Date: 2020-27-9
+	Location: Makkah
+
+Total Penalty: 750.0
+───────────────────────────────────────────────────────
+Ticket No. 1660584856848
+
+Violation Details
+	Violation Code: 1003
+	Violation Description: Over Speeding
+	Violation Penalty: 500.0
+
+Vehicle Details
+	Number Plate: ORW-2024
+	Type: SUV
+	Brand: Lexus
+	Model: RX470
+	Color: Grey
+	Built Year: 2017
+
+Violator Details
+	National ID: 2225198408
+	Full Name: Abdul Rehman
+
+Ticket Details
+	Date: 2020-19-8
+	Location: Taif
+
+Total Penalty: 1500.0
+───────────────────────────────────────────────────────
+Ticket No. 1660584856848
+
+Violation Details
+	Violation Code: 1004
+	Violation Description: Mobile Use
+	Violation Penalty: 300.0
+
+Vehicle Details
+	Number Plate: QYN-3002
+	Type: Truck
+	Brand: Volvo
+	Model: FMR
+	Color: Yellow
+	Built Year: 2017
+
+Violator Details
+	National ID: 2912367457
+	Full Name: Bandar Omar
+
+Ticket Details
+	Date: 2020-3-6
+	Location: Riyadh
+
+Total Penalty: 300.0
+───────────────────────────────────────────────────────
+Ticket No. 1660584856849
+
+Violation Details
+	Violation Code: 1009
+	Violation Description: Wrong Turn
+	Violation Penalty: 500.0
+
+Vehicle Details
+	Number Plate: IQS-7792
+	Type: Car
+	Brand: Honda
+	Model: Civic
+	Color: Grey
+	Built Year: 2014
+
+Violator Details
+	National ID: 2345347676
+	Full Name: Abdul Rehman
+
+Ticket Details
+	Date: 2020-22-4
+	Location: Jeddah
+
+Total Penalty: 1750.0
+───────────────────────────────────────────────────────
+Ticket No. 1660584856850
+
+Violation Details
+	Violation Code: 1004
+	Violation Description: Mobile Use
+	Violation Penalty: 300.0
+
+Vehicle Details
+	Number Plate: MSS-9121
+	Type: Car
+	Brand: Toyota
+	Model: Corolla
+	Color: White
+	Built Year: 2017
+
+Violator Details
+	National ID: 2546834724
+	Full Name: Malick Ghazi
+
+Ticket Details
+	Date: 2020-3-6
+	Location: Riyadh
+
+Total Penalty: 1300.0
+───────────────────────────────────────────────────────
+Ticket No. 1660584856852
+
+Violation Details
+	Violation Code: 1004
+	Violation Description: Mobile Use
+	Violation Penalty: 300.0
+
+Vehicle Details
+	Number Plate: QPL-1002
+	Type: Bus
+	Brand: Mercedes
+	Model: DLX
+	Color: Yellow
+	Built Year: 2018
+
+Violator Details
+	National ID: 2912367457
+	Full Name: Bandar Omar
+
+Ticket Details
+	Date: 2020-3-6
+	Location: Makkah
+
+Total Penalty: 300.0
+───────────────────────────────────────────────────────
+Ticket No. 1660584856853
+
+Violation Details
+	Violation Code: 1004
+	Violation Description: Mobile Use
+	Violation Penalty: 300.0
+
+Vehicle Details
+	Number Plate: XBN-3662
+	Type: SUV
+	Brand: Toyota
+	Model: Fortuner
+	Color: Blue
+	Built Year: 2009
+
+Violator Details
+	National ID: 2474747448
+	Full Name: Qasim Nasr
+
+Ticket Details
+	Date: 2020-3-6
+	Location: Jeddah
+
+Total Penalty: 300.0
+───────────────────────────────────────────────────────
+--------Total violation(s) by driver--------
+
+Driver ID           Driver Name        Total Violation(s)
+
+2021236524	 Ahmed Shamrani				0
+2342114502	 Jamal Albara				3
+2225198408	 Abdul Rehman				6
+2474747448	 Qasim Nasr				1
+2908967685	 Sahl Zahrani				0
+2345347676	 Abdul Rehman				2
+2546834724	 Malick Ghazi				3
+2912367457	 Bandar Omar				3
+2134367222	 Khaled Bara				0
+2845898568	 Hamid Farouk				2
